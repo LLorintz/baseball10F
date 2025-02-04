@@ -46,3 +46,7 @@ a{
 a:hovere{
     color: red;
 }
+
+.btn-primary:hover{
+    background-color:red;
+}
